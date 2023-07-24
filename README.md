@@ -50,7 +50,7 @@ The final product produced all of the above mentioned results and successfully d
 
 ## Future Work:
 
-There are some ideas to play around wiht the Car itself, by providing inputs to a car via a CAN BUS adapter, any car with electronic steering and electronic breaks can be fully automated to the point that we can enable a tesla-like Auto-Pilot system. I have already developed an algorithm for lane detection that goes beyond simple computer vision techniques and uses a deep learning model on keras for lane detection. By implementin that and giving inputs to the steering we can enable lane assist and via our collision warning algorithm we can enable a completely ACC system.
+There are some ideas to play around with the Car itself, by providing inputs to a car via a CAN BUS adapter, any car with electronic steering and electronic breaks can be fully automated to the point that we can enable a tesla-like Auto-Pilot system. I have already developed an algorithm for lane detection that goes beyond simple computer vision techniques and uses a deep learning model on keras for lane detection. By implementin that and giving inputs to the steering we can enable lane assist and via our collision warning algorithm we can enable a completely ACC system.
 
 
 
