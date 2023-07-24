@@ -52,5 +52,13 @@ The final product produced all of the above mentioned results and successfully d
 
 There are some ideas to play around with the Car itself, by providing inputs to a car via a CAN BUS adapter, any car with electronic steering and electronic breaks can be fully automated to the point that we can enable a tesla-like Auto-Pilot system. I have already developed an algorithm for lane detection that goes beyond simple computer vision techniques and uses a deep learning model on keras for lane detection. By implementing that and giving inputs to the steering we can enable lane assist and via our collision warning algorithm we can enable a complete ACC system.
 
+## OUTPUTS:
+
+![image](https://github.com/shaby112/Advanced-Driver-Assistance-Kotlin/assets/126193682/28236925-3d7e-492c-953c-6da58f1adf42)
+
+
+https://github.com/shaby112/Advanced-Driver-Assistance-Kotlin/assets/126193682/31ff55b9-52a2-47f8-91fe-257dbe4b2094
+
+
 
 
