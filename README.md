@@ -44,5 +44,13 @@ The second iteration was done on flutter but due to optimization issues, desirab
 
 The third and final iteration was done on kotlin. This used an SSDMobilenetv1 model and performed all the features mentioned above. The model was not trained in this instance, rather the pretrained model was used as it had all the needed classes for a POC. I filtered out the unneeded classes and produced outputs based on specific classes.
 
+## Final Results:
+
+The final product produced all of the above mentioned results and successfully demonstrated the usefulness of an ADAS. This is a marketable complete end to end product that, with a bit of polish, I believe can genuinely make the roads safer for everyone.
+
+## Future Work:
+
+There are some ideas to play around wiht the Car itself, by providing inputs to a car via a CAN BUS adapter, any car with electronic steering and electronic breaks can be fully automated to the point that we can enable a tesla-like Auto-Pilot system. I have already developed an algorithm for lane detection that goes beyond simple computer vision techniques and uses a deep learning model on keras for lane detection. By implementin that and giving inputs to the steering we can enable lane assist and via our collision warning algorithm we can enable a completely ACC system.
+
 
 
